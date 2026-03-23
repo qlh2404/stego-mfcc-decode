@@ -88,6 +88,6 @@ stoplab stego-mfcc-decode
 ## 2.4 Khởi động lại bài lab (Nếu cần)
 Trong trường hợp cần thực hiện lại từ đầu, sử dụng câu lệnh:
 ```bash
-labtainer -r stego-mfcc-decode -v
+labtainer -r stego-mfcc-decode
 ```
 
